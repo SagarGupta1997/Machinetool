@@ -1,0 +1,57 @@
+#first
+{
+	
+max-width: 1340px;
+	
+	height:600px; 
+
+	
+}
+
+
+
+img
+{
+	
+	position: absolute;
+	left:510px;
+	top:50px;
+	
+}
+#form
+{
+	border: 1px solid   #CECECE;
+	width:290px;
+	height: 400px;
+	position: absolute;
+	left:490px;
+	top:145px;
+	
+}
+#form td
+{
+	padding-left: 20px;
+	padding-bottom: 10px;
+	font-weight: 900;
+	width:100%;
+}
+.input
+{
+	width:250px;
+	height: 25px;
+	border: 1px  inset #CECECE ;
+	background-color:khaki;
+	
+}
+.input:hover{
+	border:1px ridge red;
+}
+.button
+{
+	width:250px;
+	height: 25px;
+	background-color:white;
+}
+.button:hover{
+	border:1px ridge red;
+}
